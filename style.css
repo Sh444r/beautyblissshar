@@ -32,6 +32,7 @@ header ul {
     text-align: center;
     text-decoration: none;
     padding: 3px;
+    /* bron: heb ik van opgegeven literatuur https://internetingishard.netlify.app/html-and-css/hello-css/ */
 }
 
 section {
@@ -52,6 +53,7 @@ li {
 li a{
     color: white;
     text-decoration: none;
+    /* bron: https://internetingishard.netlify.app/html-and-css/hello-css/ */
 }
 
 footer {
@@ -166,10 +168,12 @@ a {
     padding: 0.5em;
     border-radius: 0.4em;
     text-decoration: none;
+    /* bron: https://cmda.github.io/internetstandaarden-screencasts/videos/15-transities/ */
 }
 
 ul a:hover {
     background: #f9e5e0;
+    /* bron: https://cmda.github.io/internetstandaarden-screencasts/videos/15-transities/ */
 }
 
 ol {
@@ -177,6 +181,7 @@ ol {
     text-align: center;
     list-style-type: none ;
     text-decoration: none
+    /* bron:https://internetingishard.netlify.app/html-and-css/hello-css/ */
 }
 
 
