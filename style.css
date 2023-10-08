@@ -35,16 +35,14 @@ header ul {
     /* bron: heb ik van opgegeven literatuur https://internetingishard.netlify.app/html-and-css/hello-css/ */
 }
 
-section {
+/* section {
     align-items: center;
     display: flex;
     justify-content: flex-start;
     margin-left: 5em;
     margin-right: 5em;
-    margin-top: 0em;
-    margin-bottom: 0px;
     max-width: 100%;
-}
+} */
 
 li {
     margin: 1em;
@@ -68,6 +66,8 @@ justify-content: center;
     display: flex;
     flex-direction: column;
     justify-content: center;
+    margin-left: 5em;
+    margin-right: 5em;
 }
 
 .home section {
@@ -97,6 +97,8 @@ justify-content: center;
     justify-content: center;
     flex-direction: column;
     align-items: center;
+    margin-left: 5em;
+    margin-right: 5em;
 }
 
 .makeup section {
@@ -105,8 +107,9 @@ justify-content: center;
     text-align: left;
 }
 
+
 .makeup img {
-    max-width: 30%;
+    max-width: 20%;
 }
 
 /* hier eindigt makeup */
@@ -117,6 +120,8 @@ justify-content: center;
     justify-content: center;
     flex-direction: column;
     align-items: center;
+    margin-left: 5em;
+    margin-right: 5em;
 }
 
 .skincare section {
@@ -138,6 +143,7 @@ justify-content: center;
     flex-direction: column;
     align-items: center;
     margin-left: 5em;
+    margin-right: 5em;
 }
 
 .contact section {
