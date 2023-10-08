@@ -35,14 +35,12 @@ header ul {
     /* bron: heb ik van opgegeven literatuur https://internetingishard.netlify.app/html-and-css/hello-css/ */
 }
 
-/* section {
+section {
     align-items: center;
     display: flex;
     justify-content: flex-start;
-    margin-left: 5em;
-    margin-right: 5em;
     max-width: 100%;
-} */
+}
 
 li {
     margin: 1em;
@@ -110,6 +108,7 @@ justify-content: center;
 
 .makeup img {
     max-width: 30%;
+    height: auto;
 }
 
 /* hier eindigt makeup */
@@ -132,6 +131,7 @@ justify-content: center;
 
 .skincare img {
     max-width: 20%;
+    height: auto;
 }
 
 /* hier eindigt skincare */
