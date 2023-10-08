@@ -55,6 +55,7 @@ li a{
 footer {
 display: flex;
 justify-content: center;
+background: #e6dfdc;
 }
 
 /* hieronder begint home */
@@ -97,7 +98,6 @@ justify-content: center;
     align-items: center;
     margin-left: 5em;
     margin-right: 5em;
-    max-width: 100%;
 }
 
 .makeup section {
@@ -163,6 +163,7 @@ justify-content: center;
 
 .contact img {
     max-width: 13%;
+    height: auto;
 }
 
 /* hier eindigt contact */
